@@ -1,0 +1,62 @@
+img {
+	float:left;
+	border-radius: 50%; 
+	padding:10px;
+	padding-right: 30;
+	border-right-style: inherit;
+	background-color: turquoise;
+	
+
+}
+body {
+	color: rgb(5, 201, 31);
+	background-color: black;
+	font-size: medium;
+	
+}
+h1  {
+ color: rgb(227, 243, 7);
+ font-size: 50px;
+}
+h2 {
+	color: rgb(6, 204, 204);
+
+}
+h3 {
+	color: orange;
+
+}
+h4 {
+	color: powderblue;
+	font-size: 30px;
+}
+h5 {
+	color: teal;
+	font-size: 30px;
+}
+h6 {
+	color: rgba(72, 255, 0, 0.603);
+	font-size: 30px;
+}
+d  {
+	background-color:yellow;
+	padding: 10px;
+	margin: 30px;
+	margin-right: 80px;
+	margin-bottom: 40px;
+	margin-top: 40px;
+	text-align: inherit;
+}
+f  {
+	font-size: 30px;
+	 
+}
+g  {
+	background-color: turquoise;
+	padding:10px;
+	margin: 30px;
+	margin-right: 90px;
+	margin-bottom: 60px;
+	margin-top: 40px;
+	text-align: inherit;
+}
