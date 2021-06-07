@@ -9,5 +9,5 @@ use the comand below to install the git
 ### live site
 view [live]https://isaacmurage-softwaredeveloper.github.io/Favourite_band_project/
 ### licence
-This project is  under [MIT](licence)
+This project is  under [MIT)(licence)
 
